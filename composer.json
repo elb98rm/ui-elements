@@ -1,7 +1,7 @@
 {
     "name": "floor9design/ui-elements",
     "type": "library",
-    "description": ":package_description",
+    "description": "A set of commonly used HTML tools for string manipulation, as well as common HTML elements not in laravelcollective",
     "keywords": [
         "floor9design",
         "ui-elements"
